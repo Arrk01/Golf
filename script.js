@@ -1,11 +1,11 @@
 var crsr = document.querySelector("#cursor");
-var blur = document.querySelector("#cursor-blur");
+var blur2 = document.querySelector("#cursor-blur");
 
 document.addEventListener("mousemove", function (dets) {
   crsr.style.left = dets.x + "px";
   crsr.style.top = dets.y + "px";
-  blur.style.left = dets.x - 250 + "px";
-  blur.style.top = dets.y - 250 + "px";
+  blur2.style.left = dets.x - 250 + "px";
+  blur2.style.top = dets.y - 250 + "px";
 });
 
 var h4all = document.querySelectorAll("#nav h4");
