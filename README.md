@@ -1,4 +1,4 @@
-```markdown
+
 # 🏌️ Golf Landing Page
 
 ## 📋 Description
@@ -16,7 +16,7 @@ The landing page is built with modern frontend technologies, ensuring smooth nav
 1. Clone the repository:
    ```bash
    git clone https://github.com/Arrk01/Golf.git
-   ```
+
 2. Open the `index.html` file in any browser to view the landing page.
 
 ## 🛠️ Technologies Used
